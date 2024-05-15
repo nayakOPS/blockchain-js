@@ -1,5 +1,3 @@
-Sure, here's an updated version of the README focusing on the node setup process:
-
 ---
 
 # Blockchain Project
